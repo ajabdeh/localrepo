@@ -5,3 +5,6 @@ p{
 body{
     color: aliceblue;
 }
+a{
+    display: block;
+}
